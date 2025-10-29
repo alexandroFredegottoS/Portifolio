@@ -368,6 +368,7 @@ footer .line-footer p a{
 
     .btn-social{
         text-align: center;
+        color:black
     }
 
     .img-sobre img{
@@ -398,4 +399,8 @@ footer .line-footer p a{
     footer .line-footer{
         text-align: center;
     }
+
+    .borda{
+        margin-top: 30px;
+    }   
 }
